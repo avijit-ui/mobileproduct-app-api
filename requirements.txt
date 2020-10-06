@@ -1,4 +1,6 @@
-Django
-djangorestframework
-Pillow
-psycopg2
+Django==3.1.1
+djangorestframework==3.11.1
+Pillow==7.2.0
+psycopg2==2.8.6
+pytest==6.1.1
+httpie==2.2.0
