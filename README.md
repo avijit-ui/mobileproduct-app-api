@@ -1,5 +1,4 @@
 # mobileproduct-app-api
-mobileproduct-app-api source code
 
 INTRODUCTION
 
